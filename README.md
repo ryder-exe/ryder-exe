@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ryder-exe&label=Profile%20views&color=0e75b6&style=flat" alt="ryder-exe" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ryder-exe" alt="ryder-exe" /></a> </p>
+<!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ryder-exe" alt="ryder-exe" /></a> </p>-->
 
 <p align="left"> <a href="https://twitter.com/faizkha63613834" target="blank"><img src="https://img.shields.io/twitter/follow/faizkha63613834?logo=twitter&style=for-the-badge" alt="faizkha63613834" /></a> </p>
 
