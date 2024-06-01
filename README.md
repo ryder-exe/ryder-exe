@@ -13,8 +13,6 @@
   Hi, I'm Faiz Khan, Software Developer and Freelancer from India
   <br>
   <br>
-  🔬 I'm currently studying for my doctorate at Atatürk University, Department of Computer Engineering
-  <br>
   🎓 I graduated in Department of IT (Bachelor's)
   <br>
   💻 I love writing code and learning anything about it
