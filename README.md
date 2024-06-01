@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=faizkhan101.faizkhan101">
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ryder-exe.ryder-exe">
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Faiz+Khan....;Nice+to+meet+you!&center=true&size=30">
